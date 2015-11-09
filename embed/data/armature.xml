@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Armatures factoryName="Robot">
+	<Armature id="0"
+			  name="robot"
+			  path="robot">
+		<Arms bone1="outerarm_lower"
+			  bone2="innerarm_lower">
+			<Arm id="0"
+				 name="arm_lower"
+				 path="robotFolder/arm_lower"
+				 path2="robotFolder/arm_lower"
+				 power="0"
+				 price="100" />
+		</Arms>
+
+		<ShoulderMotors bone="head">
+			<ShoulderMotor id="0"
+						   name="head"
+						   path="robotFolder/head"
+						   moveBoosting="0"
+						   price="100" />
+		</ShoulderMotors>
+
+		<WaistMotors bone1="outerleg_lower"
+					 bone2="innerleg_lower">
+			<WaistMotor id="0"
+						name="leg_lower"
+						path="robotFolder/leg_lower"
+						path2="robotFolder/leg_lower"
+						jumpBoosting="0"
+						price="100" />
+		</WaistMotors>
+	</Armature>
+
+	<Armature id="1"
+			  name="cannon"
+			  path="cannon">
+
+	</Armature>
+
+	<Armature id="2"
+			  name="boxBoard"
+			  path="boxBoard">
+
+	</Armature>
+</Armatures>

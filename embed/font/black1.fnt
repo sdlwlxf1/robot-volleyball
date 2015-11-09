@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<font>
+  <info face="ºÚÌå" size="50" bold="1" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="2,4,4,2" spacing="1,1" outline="0"/>
+  <common lineHeight="50" base="43" scaleW="256" scaleH="100" pages="1" packed="0" alphaChnl="0" redChnl="4" greenChnl="4" blueChnl="4"/>
+  <pages>
+    <page id="0" file="black1_0.png" />
+  </pages>
+  <chars count="4">
+    <char id="20102" x="166" y="0" width="46" height="49" xoffset="4" yoffset="3" xadvance="51" page="0" chnl="15" />
+    <char id="20320" x="56" y="0" width="54" height="52" xoffset="-1" yoffset="0" xadvance="51" page="0" chnl="15" />
+    <char id="36194" x="111" y="0" width="54" height="52" xoffset="0" yoffset="0" xadvance="51" page="0" chnl="15" />
+    <char id="36755" x="0" y="0" width="55" height="52" xoffset="-1" yoffset="0" xadvance="51" page="0" chnl="15" />
+  </chars>
+</font>

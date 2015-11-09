@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+	<Map id="0" name="Map" path="scene1" netpath="net1" />
+	<Map id="1" name="Map" path="scene2" netpath="net1" />
+	<Map id="2" name="Map" path="scene3" netpath="net1" />
+	<Map id="3" name="Map" path="scene4" netpath="net1" />
+</Maps>

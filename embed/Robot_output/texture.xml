@@ -1,0 +1,13 @@
+<TextureAtlas name="Robot" width="512" height="1024">
+ <SubTexture name="forearm_R1" width="89" height="240" x="0" y="256"/>
+ <SubTexture name="forearm1" width="100" height="241" x="409" y="235"/>
+ <SubTexture name="forearm" width="100" height="241" x="307" y="235"/>
+ <SubTexture name="upperarm" width="92" height="158" x="172" y="425"/>
+ <SubTexture name="motor" width="64" height="169" x="360" y="478"/>
+ <SubTexture name="head" width="66" height="71" x="426" y="478"/>
+ <SubTexture name="leg" width="305" height="254" x="0" y="0"/>
+ <SubTexture name="chest" width="142" height="233" x="307" y="0"/>
+ <SubTexture name="motor_R" width="92" height="167" x="172" y="256"/>
+ <SubTexture name="upperarm_R" width="92" height="158" x="266" y="478"/>
+ <SubTexture name="forearm_R" width="79" height="237" x="91" y="256"/>
+</TextureAtlas>
